@@ -1,4 +1,4 @@
-
+#DANIEL
 '''
 EXPLICACAO
 Uma pilha é uma estrutura de dados que tem um "topo".
